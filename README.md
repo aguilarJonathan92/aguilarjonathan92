@@ -11,7 +11,7 @@
 
 🌱 Aprendiendo: .NET 10, React 14, TypeScript, SQL Server
 💼 Buscando: mi primera oportunidad como Backend/Full-Stack .NET
-📫 Contacto: [LinkedIn](www.linkedin.com/in/jonathanalbertoaguilar) · [Email](aguilarsistemas92@gmail.com)
+📫 Contacto: [LinkedIn]([www.linkedin.com/in/jonathanalbertoaguilar](https://www.linkedin.com/in/jonathanalbertoaguilar/?isSelfProfile=true)) · [Email](aguilarsistemas92@gmail.com)
 
 ---
 
