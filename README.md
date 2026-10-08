@@ -1,17 +1,17 @@
 ### Hola 👋, soy Jonathan Aguilar
 
-**Backend .NET Developer** en formación | Full-Stack | Java & PHP background
+**Backend .NET Developer** en formación | Full-Stack | Java & PHP
 
 ---
 
 🔭 Actualmente construyendo:
 - 📚 Sistema de gestión para librería cristiana (.NET Desktop)
 - 🤝 Sistema de gestión de obra para ONG (.NET)
-- 🎵 Sistema de gestión para escuela de música (con un colega)
+- 🎵 Sistema de gestión para escuela de música (Java + React)
 
-🌱 Aprendiendo: .NET 8, React, TypeScript, SQL Server
+🌱 Aprendiendo: .NET 10, React 14, TypeScript, SQL Server
 💼 Buscando: mi primera oportunidad como Backend/Full-Stack .NET
-📫 Contacto: [LinkedIn](tu-link) · [Email](mailto:tu-email)
+📫 Contacto: [LinkedIn](www.linkedin.com/in/jonathanalbertoaguilar) · [Email](aguilarsistemas92@gmail.com)
 
 ---
 
