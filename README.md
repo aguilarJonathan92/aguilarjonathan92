@@ -9,6 +9,8 @@
 - 🤝 Sistema de gestión de obra para ONG (.NET + React)
 - 🎵 Sistema de gestión para escuela de música (Java + React)
 
+---
+
 - 🌱 Aprendiendo: .NET 10, React 19, TypeScript, SQL Server
 - 💼 Buscando: mi primera oportunidad como Backend/Full-Stack .NET
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/jonathanalbertoaguilar/?isSelfProfile=true) · [Email](mailto:aguilarsistemas92@gmail.com)
